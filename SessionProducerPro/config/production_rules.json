@@ -1,0 +1,22 @@
+{
+  "safety_constraints": {
+    "max_track_count": 32,
+    "max_db_change": 6.0,
+    "allowed_plugins": ["ReaEQ", "ReaComp", "ReaXcomp", "ReaDelay", "ReaVerb"]
+  },
+  "default_settings": {
+    "tempo": 120,
+    "time_signature": "4/4",
+    "sample_rate": 44100
+  },
+  "generation_rules": {
+    "starter_track": {
+      "length_bars": 8,
+      "structure": ["intro", "verse", "chorus"]
+    },
+    "asset_matching": {
+        "energy_tolerance": 0.2,
+        "tempo_tolerance": 0.1
+    }
+  }
+}

@@ -1,0 +1,29 @@
+﻿{
+    "spitfire_paths": [
+        "C:/Users/user/Documents/Spitfire",
+        "C:/Users/user/Documents/Spitfire Audio"
+    ],
+    "splice_paths": [
+        "./Splice/INSTRUMENT",
+        "./Splice",
+        "C:/Users/user/Music/Splice"
+    ],
+    "file_patterns": [
+        ".patches",
+        ".nki",
+        ".nkm",
+        ".vstpreset",
+        ".zpreset",
+        ".zmulti",
+        ".zconfig"
+    ],
+    "vst_names": {
+        ".patches": "Splice INSTRUMENT (Splice)",
+        ".nki": "Kontakt",
+        ".nkm": "Kontakt",
+        ".zpreset": "VSTi: Serum",
+        ".vstpreset": "Splice INSTRUMENT (Splice)",
+        "default_splice": "Splice INSTRUMENT (Splice)",
+        "default_spitfire": "VST3i: LABS (Spitfire Audio)"
+    }
+}

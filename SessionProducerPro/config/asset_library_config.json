@@ -1,0 +1,15 @@
+﻿{
+    "library_paths": [
+        "C:/Users/user/Music"
+    ],
+    "scan_settings": {
+        "recursive": true,
+        "supported_extensions": [
+            ".wav",
+            ".aif",
+            ".mp3",
+            ".mid"
+        ]
+    },
+    "database_path": "assets.db"
+}
